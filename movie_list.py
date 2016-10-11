@@ -3,7 +3,7 @@ import fresh_tomatoes
 
 
 race_gurram=movie.Movie("Race Gurram",
-                        "https://madaboutmoviez.files.wordpress.com/2014/04/race-gurram-new-poster.jpg",
+                        "https://i.ytimg.com/vi/db_2mujPXjk/movieposter.jpg",
                         "https://www.youtube.com/watch?v=yCt-YUbs7H4")
 so_satyamurty=movie.Movie("S/O Satyamurthy",
                 "https://upload.wikimedia.org/wikipedia/en/9/94/SO_Satyamurthy_soundtrack.jpg",

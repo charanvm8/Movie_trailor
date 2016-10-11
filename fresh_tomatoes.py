@@ -89,7 +89,7 @@ main_page_content = '''
 <!DOCTYPE html>
 <html lang="en">
 
-  <body background="images/bgind.jpg">
+  <body background="http://img13.deviantart.net/31cf/i/2015/028/8/6/super_hero_whatsapp_background_by_x_ama-d8fr7iz.jpg">
     <!-- Trailer Video Modal -->
     <div class="modal" id="trailer">
       <div class="modal-dialog">

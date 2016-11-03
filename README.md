@@ -1,16 +1,16 @@
-Movie Trailer
+# Movie Trailer
 
 The application will display a movie list(my personal list). You can clink on the image to play the trailer of the movie.
 
-Getting Started:
+### Getting Started:
 
 You can download the zip file and extract it to get access to the files.
 
-Prerequisities:
+### Prerequisities:
 
 Since it is written in python you need python to be installed on the system.
 
-Installation Instructions:
+### Installation Instructions:
 
 Windows
 
@@ -60,9 +60,9 @@ Running the Application:
 
 Run the movie_list.py file in the idle for the application to get lauched at localserver. You can see a html page showing the context.
 
-Built With:
+### Built With:
 
 HTML,CSS,JQuery,Python,JavaScript
 
-Developed by:
+### Developed by:
 Charan Vardhan M
